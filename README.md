@@ -6,9 +6,6 @@ THis software uses Node.js and express to display a text "Hello World." on the b
 
 Purspose is make a quick familiarization of dev tools I shall be using in later projects
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-
 # Development Environment
 
 Tools used include Visual Studio Code and GitHub
